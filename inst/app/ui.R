@@ -1,5 +1,6 @@
 library(shiny)
 library(oxcAAR)
+quickSetupOxcal()
 
 tagList(
   navbarPage(
